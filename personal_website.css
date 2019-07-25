@@ -1,0 +1,31 @@
+
+.column {
+	position: relative;
+	margin-bottom: 200px;
+
+}
+
+#container {
+	background-color: lightblue;
+	
+
+}
+
+#list {
+	text-align: center;
+	font-size: 30px;
+	background-image: url('bg-blue2.png');
+}
+
+#really:hover {
+	color: red;
+
+}
+
+#img-explain {
+	text-align: center;
+}
+
+.row {
+	margin-left: 300px;
+}
