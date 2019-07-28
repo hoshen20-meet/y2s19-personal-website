@@ -29,3 +29,8 @@
 .row {
 	margin-left: 300px;
 }
+
+
+#click {
+	border: 2px dotted;
+}
